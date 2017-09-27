@@ -79,6 +79,8 @@ Chat window.
 
 They can request a private chat with the Dungeon Master.
 
+They can take private notes in free form and access them at anytime.
+
 ## Access Character sheet
 
 DungeonMaster can view all character sheets of their current campaign. They can
@@ -104,3 +106,8 @@ Killed-ness can either be global or bound to a DungeonMaster.
 
 Global killed-ness can be Disputed with an Administrator. DungeonMaster Killed-ness
 cannot be disputed.
+
+## Close a Campaign
+
+Once a Campaign is over, the DungeonMaster may decide to close it. Players can
+no longer chat, and only the Narration and personal logs can be viewed.
